@@ -1,0 +1,10 @@
+{
+  "title": {
+    "welcome": "Welcome",
+    "loginText": "Enter credentials to access your account securely.",
+    "credentialText": "Enter registered phone or email",
+    "forgotPassword": "Forgot Password"
+  },
+  "greeting": "Hello!",
+  "welcome": "Welcome to my app!"
+}

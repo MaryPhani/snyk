@@ -1,0 +1,31 @@
+.otpContainer {
+  margin: 5% auto;
+}
+
+.otpInput {
+  width: 2rem !important;
+  height: 2rem;
+  margin: 0 0.5rem;
+  font-size: 1rem;
+  text-align: center;
+  border-radius: 4px;
+  border: 1px solid #0048ba;
+  border-radius: 24px;
+  border: 1px solid #f0f0f0;
+  background: #f5f5f5;
+  color: #000;
+  padding: 4px 8px;
+}
+
+@media only screen and (max-width: 375px) {
+  .otpInput {
+    width: 1.5rem !important;
+    height: 1.5rem;
+    font-size: 1rem;
+    padding: 8px;
+    border-radius: 24px;
+    border: 1px solid #f0f0f0;
+    background: #f5f5f5;
+    padding: 4px 8px;
+  }
+}

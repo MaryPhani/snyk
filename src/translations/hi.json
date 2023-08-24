@@ -1,0 +1,10 @@
+{
+  "title": {
+    "welcome": "स्वागत",
+    "loginText": "अपने खाते तक सुरक्षित पहुंचने के लिए क्रेडेंशियल दर्ज करें।",
+    "credentialText": "पंजीकृत फ़ोन या ईमेल दर्ज करें",
+    "forgotPassword": "पासवर्ड भूल गए"
+  },
+  "greeting": "Bonjour !",
+  "welcome": "Bienvenue dans mon application !"
+}

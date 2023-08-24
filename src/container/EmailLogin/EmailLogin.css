@@ -1,0 +1,32 @@
+.space-wrapper {
+  display: flex;
+  justify-content: space-between;
+  height: 100%;
+  padding: 20px;
+}
+
+.footer-btns-wrapper {
+  display: block;
+}
+
+@media only screen and (max-width: 575px) {
+  .btn-next-wrapper {
+    margin-bottom: 20px;
+  }
+  .btn-needhelp-wrapper {
+    margin-top: 20px;
+  }
+}
+
+@media only screen and (min-width: 575px) {
+  .btn-next-wrapper {
+    width: 35%;
+    float: right;
+  }
+  .btn-needhelp-wrapper {
+    width: 65%;
+  }
+  .btn-needhelp {
+    justify-content: start !important;
+  }
+}

@@ -1,0 +1,56 @@
+.danger {
+  color: #e51720;
+  padding: 5px;
+}
+
+.d-flex-a-jc-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.d-flex-a-jc-space-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.d-flex-align-center {
+  display: flex;
+  align-items: center;
+}
+
+.d-flex-jc-space-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.d-flex-column-jc-space-between {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.d-flex-column-a-jc-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.d-flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.jc-space-between {
+  justify-content: space-between;
+}
+
+.align-items-center {
+  align-items: center;
+}
